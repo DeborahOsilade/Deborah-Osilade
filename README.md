@@ -1,5 +1,10 @@
 ### Hi there 👋
+
 [](https://github.com/DeborahOsilade/Deborah-s-osilade/blob/main/Images/Deborah%20Osilade%20(1).png)
+
+
+
+
 <!-- 
 my name is Deborah, 
 Here are some ideas to get you started:
