@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, my name is Deborah </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi, my name is Deborah </h1>
 
 <br/>
 
-You'll see that everything I do is drawn towards building worlds with data and impacting lives by sharing and with love and light
+<br/> You'll see that everything I do is drawn towards building worlds with data and impacting lives by sharing and with love and light
                                                                 
 
 <br/>
