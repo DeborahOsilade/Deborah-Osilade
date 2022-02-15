@@ -2,7 +2,7 @@
 
 <br/>
 
-<br/> You'll see that everything I do is drawn towards building worlds with data and impacting lives by sharing and with love and light
+<br/> You'll see that everything I do is drawn towards building worlds with data and impacting lives by sharing and with love and light<br/>
                                                                 
 
 <br/>
