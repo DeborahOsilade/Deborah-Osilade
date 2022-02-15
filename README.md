@@ -1,5 +1,6 @@
-                                                                Hi my name is Deborah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+                                                                Hi my name is Deborah 
+                                                                
 ![](https://github.com/DeborahOsilade/Deborah-s-osilade/blob/main/Images/Deborah%20Osilade%20(1).png)
 
 
