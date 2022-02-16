@@ -1,4 +1,4 @@
-![](https://github.com/DeborahOsilade/Deborah-Osilade/blob/main/Images/Deborah%20Osilade%20(1).png)
+![](https://github.com/DeborahOsilade/DeborahOsilade/blob/main/Images/debs.png)
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, my name is Deborah </h1>
 
