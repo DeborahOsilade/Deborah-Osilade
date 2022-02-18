@@ -9,4 +9,4 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeborahOsilade&langs_count=8)](https://github.com/DeborahOsilade/github-readme-stats)
-<align="Right">![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=DeborahOsilade&show_icons=true)
+<h4 align="Right">![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=DeborahOsilade&show_icons=true)
