@@ -10,3 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborahosilade&langs_count=8)](https://github.com/deborahosilade/github-readme-stats)
 
+[![GitHub stars](https://img.shields.io/github/stars/deborahosilade/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/deborahosilade/StrapDown.js/stargazers/)
