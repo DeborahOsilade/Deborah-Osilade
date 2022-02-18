@@ -10,4 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeborahOsilade&langs_count=8)](https://github.com/DeborahOsilade/github-readme-stats)
 
-[![GitHub stars](https://img.shields.io/github/stars/?username=DeborahOsilade/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/DeborahOsilade/StrapDown.js/stargazers/)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=DeborahOsilade&show_icons=true)
