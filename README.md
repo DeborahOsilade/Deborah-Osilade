@@ -1,6 +1,6 @@
 ![](https://github.com/DeborahOsilade/DeborahOsilade/blob/main/Images/githb.png)
 
-#### <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is [Deborah Osilade](https://msha.ke/deborahosilade.me) aka Debicoc:eyes: 
+#### <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is [Deborah Osilade](https://msha.ke/deborahosilade.me) aka Devbicoc:eyes: 
 
 
 
