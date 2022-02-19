@@ -1,6 +1,6 @@
 ![](https://github.com/DeborahOsilade/DeborahOsilade/blob/main/Images/githb.png)
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is [Deborah Osilade(https://msha.ke/deborahosilade.me) aka Debicoc:eyes: </h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is [Deborah Osilade](https://msha.ke/deborahosilade.me) aka Debicoc:eyes: </h3>
 
 
 <br/> You'll see that everything I do is drawn towards building worlds with data and impacting lives by sharing and with love and light<br/>
