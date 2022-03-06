@@ -1,4 +1,4 @@
-![](https://github.com/DeborahOsilade/DeborahOsilade/blob/main/Images/githb.png)
+![](https://github.com/DeborahOsilade/DeborahOsilade/blob/main/Images/Deborah%20Osilade.png)
 
 #### <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is [Deborah Osilade](https://msha.ke/deborahosilade.me) aka Debicoc:eyes: 
 
