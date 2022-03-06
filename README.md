@@ -4,7 +4,7 @@
 
 
 
-<br/> You'll see that everything I do is drawn towards building worlds with data and impacting lives by sharing and with love and light<br/>
+My name is Deborah Osilade. I am a Data Analyst and scientist, other times I am an instructor. You'll see that everything I do is drawn towards building worlds with data and impacting lives by sharing and with love and light<br/>
                                                                 
 
 <br/>
