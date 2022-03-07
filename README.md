@@ -5,8 +5,7 @@
 I am a Data Analyst and scientist, other times I am an instructor. You'll see that everything I do is drawn towards building worlds with data and impacting lives. 
 
 ---
-#### Languages: `SQL`, `R`, `Python` 
-#### Visualisation Tools: `Tableau` , `Power BI`
+#### Languages: `SQL`, `R`, `Python` | #### Visualisation Tools: `Tableau` , `Power BI`
 ---
   
 <br/>
