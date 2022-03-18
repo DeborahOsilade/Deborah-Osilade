@@ -15,6 +15,6 @@ I am a Data Analyst and Data Scientist, other times I am an instructor teaching 
 - Data Visualisation Challenge [Pie Bakery](https://onyxdata.co.uk/march-2022/)
 - [Hancker rank SQL](https://www.hackerrank.com/seyiosilade)
 ---
-###### About my resipotories: The projects in my Github, show EDA - Exploratory Data Analysis, hypothesis, Anova and tests various machine learning techniques before choosing the best performing model for the problem. 
+###### About my repositories: The projects in my Github, show EDA - Exploratory Data Analysis, hypothesis, Anova and tests various machine learning techniques before choosing the best performing model for the problem. 
 ---
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=DeborahOsilade&show_icons=true) 
