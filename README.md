@@ -16,4 +16,7 @@ I am a Data Analyst and Data Scientist, other times I am an instructor teaching 
 - [Hancker rank SQL](https://www.hackerrank.com/seyiosilade)
 ---
 
+---
+#### About my resipotories: The projects in my Github, show EDA - Exploratory Data Analysis, and tests various machine learning techniques before choosing the best performing model
+---
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=DeborahOsilade&show_icons=true) 
