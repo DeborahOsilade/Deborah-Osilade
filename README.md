@@ -4,9 +4,9 @@
 
 I am a Data Analyst and Data Scientist, other times I am an instructor teaching Data analytics. You'll see that everything I do is drawn towards building worlds with data and impacting lives. I have 2 years experience and a demonstrated history of working with customer, finance, product and educational data. I demonstrate an adept understanding towards, story telling, identifying user needs, and executing data-driven solutions that grow customer experience, enhance business performance, and offer profound solutions.
 
-View my [`Resume`](https://docs.google.com/document/d/1LD5e0EZ4cq8OkXDJAvui2lNPZqr6zlhSv5lQPWjHtdo/edit?usp=sharing) 
+##### View my [`Resume`](https://docs.google.com/document/d/1LD5e0EZ4cq8OkXDJAvui2lNPZqr6zlhSv5lQPWjHtdo/edit?usp=sharing) 
 ---
-#### Languages: `SQL`, `R`, `Python` | Visualisation Tools: `Tableau` , `Power BI`
+#### Languages: `SQL`, `R`, `Python` | Visualisation Tools: [`Tableau`](https://public.tableau.com/app/profile/deborahosilade#!/?newProfile=&activeTab=0) , `Power BI`
 ---
 
 #### I am currently working on
