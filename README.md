@@ -10,10 +10,8 @@ I am a Data Analyst and Data Scientist, other times I am an instructor teaching 
 ---
 
 #### I am currently working on
-  
-- Helping [TEWWY](https://www.vizforsocialgood.com/join-a-project/tewwy?ss_source=sscampaigns&ss_campaign_id=6215db593b3fd80d603da010&ss_email_id=62270d2ed466332332fad4a6&ss_campaign_name=Join+us+in+Supporting+Tap+Elderly+Women%27s+Wisdom+for+Youth&ss_campaign_sent_date=2022-03-08T08%3A01%3A09Z) analyse their data
-- Data Visualisation Challenge [Pie Bakery](https://onyxdata.co.uk/march-2022/)
-- [Hancker rank SQL](https://www.hackerrank.com/seyiosilade)
+ 
+- My sql stars in [Hancker rank SQL](https://www.hackerrank.com/seyiosilade)
 ---
 ###### About my repositories: The projects in my Github, show EDA - Exploratory Data Analysis, hypothesis, Anova and tests various machine learning techniques before choosing the best performing model for the problem. 
 ---
