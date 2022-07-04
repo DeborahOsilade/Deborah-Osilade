@@ -5,7 +5,7 @@ I am a Data Analyst and Data Scientist, other times I am an instructor teaching 
 
 ##### View my [`Resume`](https://docs.google.com/document/d/e/2PACX-1vSvVIuqOYb65MVzEQR6v3Ayk1osnepZKWV338vZUiANSLs0NPnihSjiI-J2wf-6PHGvhSZdKuklkMPl/pub) 
 ---
-#### Languages: `SQL`, `R`, `Python` | Visualisation Tools: [`Tableau`](https://public.tableau.com/app/profile/deborahosilade#!/?newProfile=&activeTab=0) , `Power BI`, `Excel`
+#### Languages: `PostgreSQL`, `R`, `Python` | Visualisation Tools: [`Tableau`](https://public.tableau.com/app/profile/deborahosilade#!/?newProfile=&activeTab=0) , `Power BI`, `Excel`
 ---
 
 #### I am currently working on
