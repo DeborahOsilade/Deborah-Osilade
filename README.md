@@ -1,4 +1,3 @@
-![](https://github.com/DeborahOsilade/DeborahOsilade/blob/main/Images/Deborah%20Osilade.png)
 
 ###### <p align="center">My name is [Deborah Osilade](https://msha.ke/deborahosilade.me) aka Debicoc:eyes:. 
 
